@@ -2,6 +2,7 @@
 
 **AIM :**
 
+
  To  implement the Bresenham’s  algorithm for line using a c coding.
 
 **ALGORITHM :**

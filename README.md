@@ -76,6 +76,7 @@ main()
 ```
 
 **Output :**
+
 <img width="637" height="507" alt="image" src="https://github.com/user-attachments/assets/83326eef-5bc0-4218-8a03-ed00908b6de4" />
 
 
